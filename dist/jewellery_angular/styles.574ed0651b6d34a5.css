@@ -1,0 +1,1 @@
+body{display:flex;flex-direction:column;justify-content:center;align-items:center;min-height:100vh;background-color:#f2f2f1;text-align:center;margin:0}main{display:flex;flex-direction:column;justify-content:center;padding:1rem;width:100%;margin:0 auto;box-sizing:border-box}@media (max-width: 900px){main{padding:0}}
